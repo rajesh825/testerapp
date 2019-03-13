@@ -10,7 +10,7 @@ Please run from Project Root Directory
 
     1. mvn clean test (By default Test configured to run using Chrome browser)
         or
-        mvn clean test -Dbrowser="Firefox"
+        mvn clean test -Dbrowser="Chrome"
         
     2. mvn clean test -Dbrowser="Firefox"
  
